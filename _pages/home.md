@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About Me
-permalink: /about/
+layout: home
+title: home
+permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -10,4 +10,4 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-TODO: About page.
+TODO: Home page.
