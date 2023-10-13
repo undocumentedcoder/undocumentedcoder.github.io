@@ -10,8 +10,6 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a computer science Ph.D. student at one of {MIT, Stanford, Berkeley, CMU} (not disclosing which one, to stay anonymous).
+Welcome! This website is a survival guide for undocumented students in the U.S. majoring in computer science. My goal is to give you tips on how you can succeed in college and graduate school as an undocumented immigrant with or without Deferred Action for Childhood Arrivals (DACA).
 
-I created this website to help undocumented CS majors navigate their complex circumstances and succeed in college and graduate school in the U.S.
-
-If you'd like to hear more about my story, check out the [About]({{site.baseurl}}/about) page. Otherwise, feel free to continue browsing the website!
+As for me, I am a CS PhD student at a top university (undisclosed for sake of anonymity). If you'd like to know a bit more about me, check out the [About]({{site.baseurl}}/about) page. Otherwise, feel free to browse the website!
