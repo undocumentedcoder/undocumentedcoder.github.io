@@ -4,7 +4,7 @@ title: project 1
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: succeeding in college
 ---
 
 Every project has a beautiful feature showcase page.

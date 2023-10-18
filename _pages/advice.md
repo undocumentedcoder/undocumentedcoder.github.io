@@ -5,7 +5,7 @@ permalink: /advice/
 description: Tips for undocumented undergraduate/graduate students studying computer science.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [succeeding in college, succeeding in graduate school]
 horizontal: false
 ---
 
