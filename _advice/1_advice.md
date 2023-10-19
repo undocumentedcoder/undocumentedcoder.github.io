@@ -17,7 +17,9 @@ Getting good grades can be helpful if you are:
 
 (This list is not exhaustive.)
 
-Of course, other aspects of your resume (such as work experience, relevant projects, publications, etc.) matter as well in your applications to industry jobs and graduate school. However, a high GPA can open the door to these opportunities (especially if you don't have much content on your resume), which could help bolster your overall application. In addition, some recruiters and application reviewers, especially in graduate school, don't even review applications from candidates who don't meet some minimum GPA requirement. Therefore, it's better to be safe than sorry and take your coursework seriously.
+Of course, other aspects of your resume (such as work experience, relevant projects, publications, etc.) matter as well in your applications to industry jobs and graduate school. However, a high GPA can open the door to these opportunities (especially if you don't have much content on your resume), which could help bolster your overall application. In addition, some recruiters and application reviewers, especially in graduate school, don't even review applications from candidates who don't meet some minimum GPA requirement.
+
+One last thing to note here is that if you don't have work authorization in the U.S., going to graduate school may be your only option for now. If this is the case, it is even more important to do well in school. Therefore, it's better to be safe than sorry and take your coursework seriously!
 
 ## How to study effectively and maintain good grades
 
@@ -36,3 +38,4 @@ Here are some tips that helped me:
 * Don't take classes with professors who are known to make the course extremely difficult if there are other alternatives. Yes, you may learn more by going through fire, but if your goal is to optimize your grades, it's better to go with the less intense options. No one outside your department or university will know about the difficulty of taking a class with that one professor anyway; they only see your GPA. If you really want to learn more, you can audit hard courses or take free courses online. Don't shoot yourself in the foot by testing yourself with high-risk, low-reward scenarios. Your life as an undocumented immigrant is already difficult. Don't make it even more difficult!
 * Don't take too many classes per semester/quarter. Also, try to balance hard classes with easier classes. Plan out your year so that you can take the right classes at the right time.
 * Simply spend more hours studying, especially if you are a slow learner. More time means more material reviewed and more practice exams completed, which can help you build more intuition. Again, start early and space it out so that it doesn't feel overwhelming. Studying for more hours doesn't mean you have to study day and night, if you manage your time wisely.
+
