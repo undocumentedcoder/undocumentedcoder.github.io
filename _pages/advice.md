@@ -2,7 +2,7 @@
 layout: page
 title: advice
 permalink: /advice/
-description: Tips for undocumented undergraduate/graduate students studying computer science.
+description: Below are tips for undocumented students studying computer science (or related concentrations). I discuss things that are useful to know to succeed in college and graduate school.
 nav: true
 nav_order: 2
 display_categories: [succeeding in college, succeeding in graduate school]
