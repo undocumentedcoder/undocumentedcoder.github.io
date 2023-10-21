@@ -39,3 +39,4 @@ Here are some tips that helped me:
 * Don't take too many classes per semester/quarter. Also, try to balance hard classes with easier classes. Plan out your year so that you can take the right classes at the right time.
 * Simply spend more hours studying, especially if you are a slow learner. More time means more material reviewed and more practice exams completed, which can help you build more intuition. Again, start early and space it out so that it doesn't feel overwhelming. Studying for more hours doesn't mean you have to study day and night, if you manage your time wisely.
 
+Whew, that was a lot. Hope some of it helps! :)
