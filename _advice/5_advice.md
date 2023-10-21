@@ -2,7 +2,7 @@
 layout: page
 title: Finding research opportunities
 description: How to find open research positions in CS labs
-img:
+img: assets/img/research_lab.jpeg
 importance: 5
 category: graduate school tips
 ---

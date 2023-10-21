@@ -2,7 +2,7 @@
 layout: page
 title: Improving Your Research Application
 description: What professors and PhD students look for in undergraduate research applications
-img:
+img: assets/img/cv.jpeg
 importance: 6
 category: graduate school tips
 ---
