@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Improving Your Research Application
-description: What professors and PhD students look for in undergraduate researchers
+description: What professors and PhD students look for in undergraduate research applications
 img:
 importance: 6
 category: graduate school tips
@@ -9,7 +9,7 @@ category: graduate school tips
 
 If you want to get into a research lab, you need to impress the professor and/or PhD student(s) reviewing your application, especially if you're applying for a competitive position. While some factors in your application, such as your GPA, are important in both industry and academic applications, there are many differences in things that the application reader looks for between industry and academia. Professors and graduate students are looking for evidence of strong research potential and signs of motivation and drive when looking undergraduate researchers to join their lab. Therefore, you can't simply reuse your work applications to apply for research roles. Keep reading to find out what professors and graduate students look for in undergraduate researchers, and how to emphasize things that will improve your chances of impressing them and getting into the lab.
 
-## What professors and PhD students look for in undergraduate researchers
+## What professors and PhD students look for in undergraduate research applications
 
 When recruiting undergraduate researchers, professors and PhD students look for strong potential to do good research and signs of long-term commitment. This is because it's a very big investment to hire and train new researchers, so research mentors would rather do it if they knew their mentee was strong and committed to working together for a long enough period of time (e.g., at least 1 year).
 
