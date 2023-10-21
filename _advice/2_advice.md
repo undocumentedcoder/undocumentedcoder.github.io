@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Finding SWE Internships
-description: Types of internships undocumented immigrants can do, and how to find such internships
-img: assets/img/3.jpg
+description: Internships for undocumented immigrants and how to find them
+img: assets/img/internship.jpeg
 importance: 2
 category: succeeding in college
 ---
