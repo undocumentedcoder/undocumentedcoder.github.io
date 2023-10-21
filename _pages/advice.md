@@ -5,7 +5,7 @@ permalink: /advice/
 description: Below are my tips for undocumented students who are studying computer science (or related concentrations)! I try to cover things that are useful to know as you progress through college and graduate school.
 nav: true
 nav_order: 2
-display_categories: [succeeding in college, succeeding in graduate school]
+display_categories: [college and internship tips, graduate school tips]
 horizontal: false
 ---
 

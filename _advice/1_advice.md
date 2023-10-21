@@ -4,7 +4,7 @@ title: Acing CS Courses
 description: How to study effectively, maintain a high GPA, graduate at the top of your class
 img: assets/img/college.jpeg
 importance: 1
-category: succeeding in college
+category: college and internship tips
 ---
 
 ## Why do I need good grades?

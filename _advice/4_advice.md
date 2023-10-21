@@ -2,9 +2,9 @@
 layout: page
 title: Passing SWE interviews
 description: How to study and practice for behavioral and technical interviews
-img:
-importance: 3
-category: succeeding in college
+img: assets/img/interview.jpg
+importance: 4
+category: college and internship tips
 ---
 
 Let's say you got an interview for a paid or unpaid software engineering internship that you are interested in. Now, how do you pass the interview? Here are some tips that worked for me.

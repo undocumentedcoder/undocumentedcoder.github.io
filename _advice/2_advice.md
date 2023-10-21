@@ -4,7 +4,7 @@ title: Finding SWE Internships
 description: Internships for undocumented immigrants and how to find them
 img: assets/img/internship.jpeg
 importance: 2
-category: succeeding in college
+category: college and internship tips
 ---
 
 ## How can undocumented immigrants do software engineering internships?

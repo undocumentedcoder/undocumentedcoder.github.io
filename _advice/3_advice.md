@@ -2,9 +2,9 @@
 layout: page
 title: Improving Your Resume
 description: How to impress recruiters and get competitive internships
-img: assets/img/7.jpg
+img: assets/img/resume.jpg
 importance: 3
-category: succeeding in college
+category: college and internship tips
 ---
 
 ## Improving your resume
